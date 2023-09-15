@@ -1,0 +1,32 @@
+-- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
+-- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
+-- import: blesson-tomy.github.io/blessonktomy/lib
+
+-- lib.page:
+
+-- lib.header:
+logo: $assets.files.assets.logo.jpg
+logo-text: Portfolio
+cta-text-1: Home
+cta-text-2: About
+cta-text-3: Resume
+cta-text-1-url: index.html
+cta-text-2-url: index.html
+cta-text-3-url: index.html
+
+-- hero-1.hero-1: Hi! I'm Blesson K Tomy
+cta-button-1: Resume
+link-1: https://www.resume.com/
+cta-button-2: Schedule Meeting
+link-2: https://calendly.com/
+cover: $assets.files.assets.Blesson.jpg
+
+I'm an aspiring Software Developer with a passion for self-learning and motivation. I enjoy reading, writing and problem-solving. 
+
+I am a sophomore in St. Joseph's College of Engineering and Technology studing Computer Science and Engineering. 
+
+I am currently in the IEEE Kerala Chapter as a content writer. 
+
+
+
+-- end: lib.page
