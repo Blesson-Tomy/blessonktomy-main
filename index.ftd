@@ -1,18 +1,20 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: blesson-tomy.github.io/blessonktomy/lib
+-- import: fastnui.trizwit.com/UI-Components/Contact/contact-2
+-- import: fastnui.trizwit.com/UI-Components/Header/header-2
+-- import: fastnui.trizwit.com/UI-Components/Footer/footer-1
+
 
 -- lib.page:
 
--- lib.header:
-logo: $assets.files.assets.logo.jpg
-logo-text: Portfolio
-cta-text-1: Home
-cta-text-2: About
-cta-text-3: Resume
-cta-text-1-url: index.html
-cta-text-2-url: index.html
-cta-text-3-url: index.html
+-- header-2.header-2: 
+logo: $assets.files.assets.Logo.png
+logo-test: BLESSON TOMY
+cta-text-1: Profile
+cta-text-2: Contact Me
+cta-text-3: Buy me a Coffee
+cta-button-1: Click
 
 -- hero-1.hero-1: Hi! I'm Blesson K Tomy
 cta-button-1: Resume
@@ -27,6 +29,10 @@ I am a sophomore in St. Joseph's College of Engineering and Technology studing C
 
 I am currently in the IEEE Kerala Chapter as a content writer. 
 
+
+
+
+You can contact me about anything related to my works, business and even for some chit-chat.
 
 
 -- end: lib.page
