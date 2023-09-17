@@ -44,7 +44,7 @@ logo: $assets.files.assets.Logo.png
 facebook: $assets.files.images.Footer.facebook.svg
 twitter: $assets.files.images.Footer.twitter.svg
 instagram: $assets.files.images.Footer.instagram.svg
-linkedin: $assets.files.images.Footer.linkedin.svg
+linkedin: $assets.files.images.Footer.linkedin.png
 logo-test: TRIZWIT
 
 -- end: lib.page
