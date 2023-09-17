@@ -37,7 +37,7 @@ I am currently in the IEEE ComSoc Kerala Chapter as a content writer.
 pic: $assets.files.assets.Logo.png
 head: Self-Improvement
 user-name: Blesson
-user-image: $assets.files.images.Blog.Blog-8.avatar.jpg
+user-image: $assets.files.assets.Logo.png
 
 While not emphasised in colleges much, creating a portfolio is essential for an engineer. The portfolio 
 acts as a branding tool to enable the engineer to exhibit his/her projects, skills, abilities and experiences. 
@@ -47,7 +47,7 @@ Since engineering is a professional field, such a well-maintained portfolio can 
 pic: $assets.files.assets.Logo.png
 head: Self-Improvement
 user-name: Blesson
-user-image: $assets.files.images.Blog.Blog-8.avatar.jpg
+user-image: $assets.files.assets.Logo.png
 
 A linkedin profile is another tool used to connect with people of similar interests and backgrounds around the world.
 Although creating a profile is important, it is just as important to maintain it. Keep the profile up to date with 
