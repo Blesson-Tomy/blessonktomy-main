@@ -32,13 +32,15 @@ children: $page.c
 
 -- footer:
 icon-1: $assets.files.assets.linkedIn.png
-url-1: https://www.linkedin.com/blesson-tomy
+url-1: http://www.linkedin.com/in/blesson-tomy
 icon-2: $assets.files.assets.twit.svg
 url-2: https://twitter.com/blesson-tomy
 icon-3: $assets.files.assets.github.svg
 url-3: https://github.com/Blesson-Tomy
 
 -- end: ftd.column
+
+
 
 -- end: page
 
