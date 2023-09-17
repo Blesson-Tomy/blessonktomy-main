@@ -3,7 +3,8 @@
 -- import: blesson-tomy.github.io/blessonktomy/lib
 -- import: fastnui.trizwit.com/UI-Components/Contact/contact-2
 -- import: fastnui.trizwit.com/UI-Components/Header/header-2
--- import: fastnui.trizwit.com/UI-Components/Footer/footer-1
+-- import: fastnui.trizwit.com/UI-Components/Footer/footer-3
+-- import: fastnui.trizwit.com/UI-Components/Blog/blog-8
 
 
 -- lib.page:
@@ -12,27 +13,47 @@
 logo: $assets.files.assets.Logo.png
 logo-test: BLESSON TOMY
 cta-text-1: Profile
-cta-text-2: Contact Me
-cta-text-3: Buy me a Coffee
+cta-text-2: Blog
+cta-text-3: Contact Me
 cta-button-1: Click
 
 -- hero-1.hero-1: Hi! I'm Blesson K Tomy
 cta-button-1: Resume
-link-1: https://www.resume.com/
+link-1: https://www.linkedin.com/blesson-tomy
 cta-button-2: Schedule Meeting
-link-2: https://calendly.com/
+link-2: https://www.linkedin.com/blesson-tomy
 cover: $assets.files.assets.Blesson.jpg
 
 I'm an aspiring Software Developer with a passion for self-learning and motivation. I enjoy reading, writing and problem-solving. 
 
 I am a sophomore in St. Joseph's College of Engineering and Technology studing Computer Science and Engineering. 
 
-I am currently in the IEEE Kerala Chapter as a content writer. 
+I am currently in the IEEE ComSoc Kerala Chapter as a content writer. 
 
 
 
 
-You can contact me about anything related to my works, business and even for some chit-chat.
+-- blog-8.blog-8: Creating a Portfolio
+pic: $assets.files.assets.Logo.png
+head: Self-Improvement
+user-name: Blesson
+user-image: $assets.files.assets.Logo.png
+
+While not emphasised in colleges much, creating a portfolio is essential for an engineer. The portfolio 
+acts as a branding tool to enable the engineer to exhibit his/her projects, skills, abilities and experiences. 
+Since engineering is a professional field, such a well-maintained portfolio can help to boost his/her hiring potential.
+
+-- blog-8.blog-8: Maintaining a Linkedin Profile
+pic: $assets.files.assets.Logo.png
+head: Self-Improvement
+user-name: Blesson
+user-image: $assets.files.assets.Logo.png
+
+A linkedin profile is another tool used to connect with people of similar interests and backgrounds around the world.
+Although creating a profile is important, it is just as important to maintain it. Keep the profile up to date with 
+the various activites that you have been involved in and actively comment/post regularly. As a social media platform,
+it requires you to be active in order for us to make full use of it.
+
 
 
 -- end: lib.page
